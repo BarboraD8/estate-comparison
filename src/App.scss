@@ -1,0 +1,10 @@
+$company-grey: grey;
+
+@import 'scss/estate-row';
+@import 'scss/comparison-row';
+
+h1 {
+  color: $company-grey;
+  text-align: center;
+}
+

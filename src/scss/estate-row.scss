@@ -1,0 +1,16 @@
+
+.estate-row-container {
+  display:flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.estate {
+  font-size: 0.5em;
+  width: 8vw;
+  margin: 2px;
+  &__img {
+    width: 8vw;
+    height: 9vh;
+  }
+}
